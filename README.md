@@ -1,6 +1,6 @@
 JS Benchmark - The easy way.
 =====
-This is designed to make benchmarking changes in functions easy.
+This is designed to make benchmarking changes in functions easy. This is a JS port of [PHP Bench](https://github.com/jacobbednarz/php-bench).
 
 ### Installation
 
